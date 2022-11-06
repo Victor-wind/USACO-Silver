@@ -22,3 +22,7 @@
 
 ## USACO 2019 February Contest, Silver
 ### 2.  [Painting the Barn](http://www.usaco.org/index.php?page=viewproblem2&cpid=919)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2019/feb/paint.py) 
+
+
+## USACO 2020 December Contest, Silver
+### 3.  [Stuck in a Rut](http://www.usaco.org/index.php?page=viewproblem2&cpid=1064)     &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2020/dec/stuck.py)
