@@ -25,8 +25,8 @@
 ## USACO 2019 January Contest, Silver
 ### 3.  [Mountain View](http://www.usaco.org/index.php?page=viewproblem2&cpid=896)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2019/jan/mountainview.py)
 
-
 ## USACO 2019 February Contest, Silver
+### 1.  [?Sleepy Cow Herding](http://www.usaco.org/index.php?page=viewproblem2&cpid=918)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2019/feb/sleepy.py) 
 ### 2.  [Painting the Barn](http://www.usaco.org/index.php?page=viewproblem2&cpid=919)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2019/feb/paint.py) 
 
 
