@@ -12,6 +12,9 @@
 ## USACO 2017 February Contest, Silver
 ### 2.  [Why Did the Cow Cross the Road II](http://www.usaco.org/index.php?page=viewproblem2&cpid=715)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2017/feb/cross_road_2.py) 
 
+## USACO 2017 US Open Contest, Silver
+### 1.  [?Paired Up](http://www.usaco.org/index.php?page=viewproblem2&cpid=738)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2017/open/pair.py) 
+
 ## USACO 2018 January Contest, Silver
 ### 1.  [Lifeguards](http://www.usaco.org/index.php?page=viewproblem2&cpid=786)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2018/jan/lifeguards.py) 
 ### 2.  [Rental Service](http://www.usaco.org/index.php?page=viewproblem2&cpid=787)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2018/jan/rental.py) 
