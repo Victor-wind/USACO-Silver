@@ -29,7 +29,7 @@
 ### 2.  [Convention II](http://www.usaco.org/index.php?page=viewproblem2&cpid=859)     &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/2018/dec/convention2.py)
 
 ## USACO 2018 US Open Contest, Silver
-### 2.  [?Lemonade Line](http://www.usaco.org/index.php?page=viewproblem2&cpid=835)     &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/2018/dec/line.py)
+### 2.  [Lemonade Line](http://www.usaco.org/index.php?page=viewproblem2&cpid=835)     &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/2018/open/line.py)
 
 ## USACO 2019 January Contest, Silver
 ### 3.  [Mountain View](http://www.usaco.org/index.php?page=viewproblem2&cpid=896)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2019/jan/mountainview.py)
