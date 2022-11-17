@@ -1,6 +1,7 @@
 # USACO-Bronze
 
 ## USACO 2015 December Contest, Silver
+### 2.  [?High Card Wins](http://www.usaco.org/index.php?page=viewproblem2&cpid=571)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2015/dec/cards.py) 
 ### 3.  [Breed Counting](http://www.usaco.org/index.php?page=viewproblem2&cpid=572)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2015/dec/breed.py) 
 
 ## USACO 2016 January Contest, Silver
