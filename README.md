@@ -14,6 +14,7 @@
 ### 2.  [Hoof, Paper, Scissors](http://www.usaco.org/index.php?page=viewproblem2&cpid=691)       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2017/jan/hps.py) 
 
 ## USACO 2017 February Contest, Silver
+### 1.  [?Why Did the Cow Cross the Road I](http://www.usaco.org/index.php?page=viewproblem2&cpid=714)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2017/feb/cross_road_1.py) 
 ### 2.  [Why Did the Cow Cross the Road II](http://www.usaco.org/index.php?page=viewproblem2&cpid=715)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2017/feb/cross_road_2.py) 
 
 ## USACO 2017 US Open Contest, Silver
