@@ -5,6 +5,7 @@
 ### 3.  [Breed Counting](http://www.usaco.org/index.php?page=viewproblem2&cpid=572)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2015/dec/breed.py) 
 
 ## USACO 2016 January Contest, Silver
+### 1.  [?Angry Cows](http://www.usaco.org/index.php?page=viewproblem2&cpid=594)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2016/jan/angry.py)
 ### 2.  [Subsequences Summing to Sevens](http://www.usaco.org/index.php?page=viewproblem2&cpid=595)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2016/jan/div7.py) 
 
 ## USACO 2016 US Open Contest, Silver
