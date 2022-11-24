@@ -11,6 +11,7 @@
 ### 2.  [Diamond Collector](http://www.usaco.org/index.php?page=viewproblem2&cpid=643)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2016/open/diamond.py) 
 
 ## USACO 2017 January Contest, Silver
+### 1.  [?Cow Dance Show](http://www.usaco.org/index.php?page=viewproblem2&cpid=690)       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2017/jan/dance.py) 
 ### 2.  [Hoof, Paper, Scissors](http://www.usaco.org/index.php?page=viewproblem2&cpid=691)       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2017/jan/hps.py) 
 
 ## USACO 2017 February Contest, Silver
