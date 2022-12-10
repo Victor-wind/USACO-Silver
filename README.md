@@ -62,3 +62,9 @@
 
 ## USACO 2021 December Contest, Silver
 ### 2.  [?Connecting Two Barns](http://www.usaco.org/index.php?page=viewproblem2&cpid=1159)     &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2021/dec/barns.py)
+
+
+## USACO 2022 February Contest, Silver
+### 1.  [? Redistributing Gifts](http://usaco.org/index.php?page=viewproblem2&cpid=1206)     &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2022/feb/barns.py)
+
+
