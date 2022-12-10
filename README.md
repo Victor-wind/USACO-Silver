@@ -60,4 +60,5 @@
 ## USACO 2020 December Contest, Silver
 ### 3.  [Stuck in a Rut](http://www.usaco.org/index.php?page=viewproblem2&cpid=1064)     &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2020/dec/stuck.py)
 
-
+## USACO 2021 December Contest, Silver
+### 2.  [?Connecting Two Barns](http://www.usaco.org/index.php?page=viewproblem2&cpid=1159)     &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2021/dec/barns.py)
