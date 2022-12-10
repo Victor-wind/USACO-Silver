@@ -59,3 +59,6 @@
 ## USACO 2020 December Contest, Silver
 ### 3.  [Stuck in a Rut](http://www.usaco.org/index.php?page=viewproblem2&cpid=1064)     &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2020/dec/stuck.py)
 
+## USACO 2020 January Contest, Silver
+### 3.  [?Wormhole Sort](http://www.usaco.org/index.php?page=viewproblem2&cpid=992)     &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2020/jan/worm.py)
+
