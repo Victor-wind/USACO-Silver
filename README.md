@@ -52,6 +52,7 @@
 
 ## USACO 2020 January Contest, Silver
 ### 1.  [Berry Picking](http://www.usaco.org/index.php?page=viewproblem2&cpid=990)     &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2020/jan/berry.py)
+### 3.  [?Wormhole Sort](http://www.usaco.org/index.php?page=viewproblem2&cpid=992)     &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2020/jan/worm.py)
 
 ## USACO 2020 US Open Contest, Silver
 ### 1.  [Social Distancing](http://www.usaco.org/index.php?page=viewproblem2&cpid=1038)    &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2020/open/distance.py)
@@ -59,6 +60,4 @@
 ## USACO 2020 December Contest, Silver
 ### 3.  [Stuck in a Rut](http://www.usaco.org/index.php?page=viewproblem2&cpid=1064)     &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2020/dec/stuck.py)
 
-## USACO 2020 January Contest, Silver
-### 3.  [?Wormhole Sort](http://www.usaco.org/index.php?page=viewproblem2&cpid=992)     &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2020/jan/worm.py)
 
