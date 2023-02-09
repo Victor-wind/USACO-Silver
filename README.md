@@ -1,4 +1,4 @@
-# USACO-Bronze
+# USACO-Silver
 
 ## USACO 2015 December Contest, Silver
 ### 2.  [High Card Wins](http://www.usaco.org/index.php?page=viewproblem2&cpid=571)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2015/dec/cards.py) 
