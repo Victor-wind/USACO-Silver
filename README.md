@@ -7,6 +7,7 @@
 ## USACO 2016 January Contest, Silver
 ### 1.  [Angry Cows](http://www.usaco.org/index.php?page=viewproblem2&cpid=594)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2016/jan/angry.py)
 ### 2.  [Subsequences Summing to Sevens](http://www.usaco.org/index.php?page=viewproblem2&cpid=595)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2016/jan/div7.py) 
+### 3.  [?Build Gates](http://www.usaco.org/index.php?page=viewproblem2&cpid=596)   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2016/jan/gates.py) 
 
 ## USACO 2016 US Open Contest, Silver
 ### 2.  [Diamond Collector](http://www.usaco.org/index.php?page=viewproblem2&cpid=643)  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2016/open/diamond.py) 
