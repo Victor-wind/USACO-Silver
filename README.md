@@ -23,6 +23,7 @@
 ## USACO 2017 February Contest, Silver
 ### 1.  [Why Did the Cow Cross the Road I](http://www.usaco.org/index.php?page=viewproblem2&cpid=714)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2017/feb/cross_road_1.py) 
 ### 2.  [Why Did the Cow Cross the Road II](http://www.usaco.org/index.php?page=viewproblem2&cpid=715)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2017/feb/cross_road_2.py) 
+### 3.  [?Why Did the Cow Cross the Road III](http://www.usaco.org/index.php?page=viewproblem2&cpid=716)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2017/feb/cross_road_3.py) 
 
 ## USACO 2017 US Open Contest, Silver
 ### 1.  [Paired Up](http://www.usaco.org/index.php?page=viewproblem2&cpid=738)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2017/open/pair.py) 
