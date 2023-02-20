@@ -41,6 +41,7 @@
 ### 2.  [Lemonade Line](http://www.usaco.org/index.php?page=viewproblem2&cpid=835)     &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/2018/open/line.py)
 
 ## USACO 2019 January Contest, Silver
+### 2.  [?Icy Perimeter](http://www.usaco.org/index.php?page=viewproblem2&cpid=895)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2019/jan/ice.py)
 ### 3.  [Mountain View](http://www.usaco.org/index.php?page=viewproblem2&cpid=896)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2019/jan/mountainview.py)
 
 ## USACO 2019 February Contest, Silver
