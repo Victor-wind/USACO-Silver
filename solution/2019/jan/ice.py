@@ -1,3 +1,12 @@
+'''
+ Submitted; Results below show the outcome for each judge test case
+*
+1        2        3        4        5       6        7        8       9        10   11
+10.6mb   10.6mb   10.6mb   11.0mb   11.4mb  12.2mb   13.0mb   14.0mb  15.2mb   t    t 
+187ms    200ms    194ms    604ms    844ms   1160ms   1529ms   1867ms  2093ms
+*
+'''
+
 from collections import deque
 
 f = open('perimeter.in')
