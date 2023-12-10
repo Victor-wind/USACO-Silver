@@ -50,7 +50,7 @@
 ## USACO 2019 February Contest, Silver
 ### 1.  [Sleepy Cow Herding](http://www.usaco.org/index.php?page=viewproblem2&cpid=918)      &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2019/feb/sleepy.py) 
 ### 2.  [Painting the Barn](http://www.usaco.org/index.php?page=viewproblem2&cpid=919)     &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2019/feb/paint.py) 
-### 3.  [The Great Revegetation](http://www.usaco.org/index.php?page=viewproblem2&cpid=920)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[solution](solution/2019/feb/revegetation.py)       
+### 3.  [The Great Revegetation](http://www.usaco.org/index.php?page=viewproblem2&cpid=920)    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[solution](solution/2019/feb/revegetation.py)       
 
 ## USACO 2019 US Open Contest, Silver
 ### 3.  [Fence Planning](http://www.usaco.org/index.php?page=viewproblem2&cpid=944)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2019/open/fence.py) 
@@ -71,5 +71,6 @@
 
 ## USACO 2022 February Contest, Silver
 ### 1.  [Redistributing Gifts](http://usaco.org/index.php?page=viewproblem2&cpid=1206)     &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2022/feb/gifts.py)
+### 2.  [Robot Instructions](http://usaco.org/index.php?page=viewproblem2&cpid=1207)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2022/feb/robots.py)
 
 
