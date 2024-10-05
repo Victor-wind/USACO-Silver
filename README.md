@@ -71,6 +71,7 @@
 ## USACO 2022 January Contest, Silver
 ### 1.  [Searching for Soulmates](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1182)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2022/jan/soul.py)
 ### 2.  [Cow Frisbee](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1183)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2022/jan/frisbee.py)
+### 3.  [Cereal 2](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1184)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2022/jan/cereal.py)
 
 ## USACO 2022 February Contest, Silver
 ### 1.  [Redistributing Gifts](http://usaco.org/index.php?page=viewproblem2&cpid=1206)     &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2022/feb/gifts.py)
