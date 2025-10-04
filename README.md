@@ -55,6 +55,11 @@
 ## USACO 2019 US Open Contest, Silver
 ### 3.  [Fence Planning](http://www.usaco.org/index.php?page=viewproblem2&cpid=944)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2019/open/fence.py) 
 
+## USACO 2019 December Contest, Silver
+### 1.  [MooBuzz](http://www.usaco.org/index.php?page=viewproblem2&cpid=966)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/2019/dec/moobuzz.py)
+### 2.  [Meetings](http://www.usaco.org/index.php?page=viewproblem2&cpid=967)     &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/2019/dec/meeting.py)
+### 3.  [Milk Visits](http://www.usaco.org/index.php?page=viewproblem2&cpid=968)     &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   [solution](solution/2019/dec/milk.py)
+
 ## USACO 2020 January Contest, Silver
 ### 1.  [Berry Picking](http://www.usaco.org/index.php?page=viewproblem2&cpid=990)     &nbsp; &nbsp;   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2020/jan/berry.py)
 ### 3.  [Wormhole Sort](http://www.usaco.org/index.php?page=viewproblem2&cpid=992)     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2020/jan/worm.py)
