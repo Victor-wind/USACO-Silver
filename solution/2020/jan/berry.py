@@ -40,6 +40,17 @@ for basket_size in range(1, berries[0]+1):
     # print(f'{berry_basket=}')
     # print(temp_list, cnt, K)
 
+'''
+Bessie’s strategy is to make all baskets as close in size as possible, then select the best one.
+Here’s a brief explanation of why this works:
+Suppose there exists an optimal solution berry_basket, sorted in descending order.
+Since Bessie only takes the smaller half berry_basket[K//2:], each basket in the larger half berry_basket[:K//2+1] can be reduced to berry_basket[K//2] without changing the result.
+The baskets smaller than berry_basket[K//2] in the second half can be combined as follows:
+a. If there is only one basket (< berry_basket[K//2]) from a single tree, it is handled in line 32.
+b. If multiple baskets b1, b2, ..., bk (< berry_basket[K//2]) come from the same tree, the berries can be redistributed so that we get berry_basket[K//2], berry_basket[K//2], ... followed by a smaller basket. 
+   This then becomes case (a).
+Therefore, any valid solution can be transformed into—or is equivalent to—Bessie’s strategy.
+'''
 print(max_cnt)
 with open('berries.out','w') as f:
     f.write(f'{max_cnt}\n')
