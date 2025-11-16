@@ -47,6 +47,8 @@ def valid_union(w: int, edges: list) -> bool:
         # could v move to position v?
         # For example, cows[3] = 10, cow '9' (10-1) is at pos 3, could '9' move to pos 9?
         # if 3 and 9 are in the same group (union)- have the same root, YES.
+        # for cows within the same connected component, you can sort them in any order
+        # how? swap and move the 'leave' cows to the ends like bubble sort algorithm on a tree structure  
         if get_root(i, root) != get_root(v, root):
             return False
     return True
