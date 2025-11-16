@@ -1,3 +1,6 @@
+'''
+All tests pass within 500 ms
+'''
 
 with open('berries.in') as f:
     lines = f.readlines()
