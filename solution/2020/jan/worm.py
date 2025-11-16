@@ -1,3 +1,6 @@
+'''
+All tests pass within 1300 ms
+'''
 
 f = open("wormsort.in","rb")
 
