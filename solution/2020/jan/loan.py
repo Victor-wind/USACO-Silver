@@ -25,7 +25,7 @@ def check_condition_optimized(N, K, M, x):
                 days += 1
             return days <= K
         # how many following transitions that leave y unchanged
-        # for example remains: 290, X = 10, -> y = 2. It could have 45 y=2 while remains >= 200
+        # for example remains: 290, X = 100, -> y = 2. It could have 45 y=2 while remains >= 200
         extra_gallons = remains - y*x
         days_followed = extra_gallons//y
         if extra_gallons % y == 0: # one more y 
