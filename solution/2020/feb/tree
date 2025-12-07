@@ -1,0 +1,49 @@
+# All tests complete within 100 ms.
+
+with open('clocktree.in') as f:
+    N = int(f.readline())
+    clocks = [int(i) for i in f.readline().split()]
+    grid = [ list() for i in range(N+1)]
+    for _ in range(N-1):
+        a, b = [int(i) for i in f.readline().split()]
+        grid[a].append(b)
+        grid[b].append(a)
+
+print(N)
+# print(clocks)
+# print(grid)
+lst_1 = []
+lst_2 = []
+sum_1 = 0
+sum_2 = 0
+
+
+def dfs_search(i, color, parent, odd_lst, even_lst):
+    global sum_1, sum_2
+    if color == 1:
+        odd_lst.append(i)
+        sum_1 += clocks[i-1]
+    else:
+        even_lst.append(i)
+        sum_2 += clocks[i - 1]
+    # print(f'Visit room {i}')
+    for child in grid[i]:
+        if child == parent: continue
+        dfs_search(child, -color, i, odd_lst, even_lst)
+
+dfs_search(1, 1, 0, lst_1, lst_2)
+# print(f'{lst_1=}')
+# print(f'{lst_2=}')
+result = 0
+if sum_1 % 12  == sum_2 % 12:
+    result = N
+elif (sum_1 + 1) % 12 == sum_2 % 12:
+    result = len(lst_2)
+elif (sum_2 + 1) % 12 == sum_1 % 12:
+    result = len(lst_1)
+
+print(result)
+with open("clocktree.out", "w") as f:
+    f.write(f'{result}\n')
+
+
