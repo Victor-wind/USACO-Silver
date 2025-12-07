@@ -37,6 +37,8 @@ for point in points:
     y_hash[y] = y_lst
 # print(y_hash)
 
+# TODO: consolidate the lines 19-51 (logic) to calculate sum(|Yi-Yj|) and sum(|Xi-Xj|) in one function.
+
 # To calculate sum(|Yi-Yj|) for every i, j. The same as X in lines 20 -32
 for key, points_lst in y_hash.items():
     # print(f'{key=} {points_lst=}')
