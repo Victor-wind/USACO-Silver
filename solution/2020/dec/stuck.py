@@ -13,21 +13,6 @@ for i in range(N):
     else:
         list_north.append([int(cow[1]), int(cow[2]), 0, 0, i])
 
-'''
-# for debug 
-with open('mountains.in') as f:
-    lines = f.readlines()
-    
-N = int(lines[0])
-for i in range(1,N+1):
-    cow = lines[i].split()
-    if cow[0] == 'E':
-        list_east.append( [int(cow[1]), int(cow[2]), 0, 0, i])
-    else:
-        list_north.append([int(cow[1]), int(cow[2]), 0, 0, i])
-
-'''
-
 list_north.sort()
 list_east.sort(key = lambda x: x[1])
 #print(f'{list_east}')
