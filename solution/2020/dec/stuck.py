@@ -1,3 +1,5 @@
+# all tests pass within 100 ms
+
 list_east = []
 list_north = []
 
