@@ -1,3 +1,5 @@
+# time out for test cases 13 - 20
+# double loops for N =2500 O(N^2) takes 4 secondst. 2D Fenwick Tree for prefix sum doesn't help with the main N^2 loop
 import sys
 from datetime import datetime
 
