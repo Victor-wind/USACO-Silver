@@ -82,7 +82,8 @@
 
 ## USACO 2021 December Contest, Silver
 ### 1.  [Closest Cow Wins](http://www.usaco.org/index.php?page=viewproblem2&cpid=1158)    &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2021/dec/win.py)
-### 2.  [Connecting Two Barns](http://www.usaco.org/index.php?page=viewproblem2&cpid=1159)    &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2021/dec/barns.py)
+### 2.  [Connecting Two Barns](http://www.usaco.org/index.php?page=viewproblem2&cpid=1159)    &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2021/dec/barns.py)
+### 3.  [Convoluted Intervals](http://www.usaco.org/index.php?page=viewproblem2&cpid=1160)    &nbsp;&nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2021/dec/intervals.py)
 
 ## USACO 2022 January Contest, Silver
 ### 1.  [Searching for Soulmates](https://usaco.org/current/current/index.php?page=viewproblem2&cpid=1182)    &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;      [solution](solution/2022/jan/soul.py)
