@@ -68,3 +68,95 @@ def solution():
     print(sum_tastiness)
 
 solution()
+
+
+'''
+import string
+import time
+
+start_time = time.time()
+
+K, M, N = [ int(x) for x in input().split()]
+patches = [ [int(x) for x in input().split()] for _ in range(K)]
+cows = [ int(input()) for _ in range(M) ]
+
+patches.sort()
+cows.sort()
+
+#print(f'{K=} {M=} {N=}')
+#print(patches)
+#print(cows)
+
+tastiness_lst = list()
+
+total_tastiness = 0
+patch_s = 0
+patch_end = K-1
+# total_tastiness before the Nhoj's first cow
+for i in range(K):
+    if patches[i][0] > cows[0]:
+        break
+    total_tastiness += patches[i][1]
+patch_s = i
+if total_tastiness > 0:
+    tastiness_lst.append(total_tastiness)
+    
+total_tastiness = 0
+# total_tastiness after the Nhoj's last cow
+for i in range(K-1, -1, -1):
+    if patches[i][0] < cows[-1]:
+        break
+    total_tastiness += patches[i][1]
+patch_end = i
+if total_tastiness > 0:
+    tastiness_lst.append(total_tastiness)
+
+# print(f'Before the loop {tastiness_lst=}')
+# consider each interval between Nhoj's cow i and cow i+1
+# although 3 nested loops, the complexity is O(N), as each patch only visits Once.
+
+# for any position q to put cow in interval (fx−1,fx) the window size is fixed: ( (fx−1+q)/2 , (fx+q)/2) ) -> (fx-fx-1)/2
+# so here are 2 solutions
+# a. Iternate all patches within interval (fx−1,fx). Let the left window be patch x. Slide/Resize the window to find the largest tastiness. 
+# b. Iternate all patches within interval (fx−1,fx). Put the cow in the best pos, the calculate largest tastiness within the slide window
+# AI doesn't like/understand solution (b). And solution a is easier to code.
+for j in range(M-1):
+    x = patch_s    
+    if x > patch_end: break
+    if patches[x][0] > cows[j+1]: continue
+    if patches[x][0] < cows[j]:
+        print(f"wrong patch moves {x} {j}")
+        exit(1)    
+    
+    y = patch_s
+    total_tastiness = 0 # total tastiness if adding 2 cows
+    one_tastiness = 0 # best tastiness if adding only 1 cows
+    one_tastiness_lst = list()
+    win_size = cows[j+1] - cows[j]
+    
+    while x <= patch_end and patches[x][0] < cows[j+1]:
+        
+        total_tastiness += patches[x][1]
+        while y <= patch_end and patches[y][0] < cows[j+1] and (patches[y][0]-patches[x][0])*2 < win_size:
+            one_tastiness += patches[y][1]
+            y += 1
+        one_tastiness_lst.append(one_tastiness)
+        # remove the tastiness of x for the next loop
+        one_tastiness -= patches[x][1]
+        x += 1        
+
+    max_one_tastiness = max(one_tastiness_lst)
+    patch_s = x
+    tastiness_lst.append(max_one_tastiness)
+    tastiness_lst.append(total_tastiness - max_one_tastiness)
+    # print(f'{j=} {total_tastiness=} {one_tastiness_lst=}')
+
+# print(f'after the loop {tastiness_lst=}')        
+tastiness_lst.sort(reverse=True)
+result = sum(tastiness_lst[:N])
+print(result)
+
+end_time = time.time()
+# print(end_time - start_time) 
+
+'''
