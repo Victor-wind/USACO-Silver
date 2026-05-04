@@ -1,3 +1,5 @@
+# All tests pass within 1500 MS
+
 from collections import deque
 import sys
 
