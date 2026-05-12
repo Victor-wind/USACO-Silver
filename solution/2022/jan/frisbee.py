@@ -1,3 +1,5 @@
+# It can be solved by Min stack or Max stack, Min stack is easier to code. 
+
 N = int(input())
 h = [int(x) for x in input().split()]
 
