@@ -7,6 +7,9 @@
 67ms        68ms      67ms     580ms    767ms    855ms    583ms    925ms   854ms    695ms   964ms
 *
 '''
+
+# Floyd-Warshall to find all reachability takes 125 million (500x500*500) operations, bfsSearch is better
+
 from collections import deque
 
 N = int(input())
