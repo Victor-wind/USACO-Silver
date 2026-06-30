@@ -33,20 +33,16 @@ while dq:
 # in each cycle, remove the smallest moos from the result.
 cycles = list()
 for i in range(1, N+1):
-    cycle = list()    
     if in_degree[i] == 0 or visited[i] == 1: # already processed
         continue
-    cycle.append(i) 
     visited[i] = 1   
     j = graph[i][0]
     min_moos = graph[i][1]    
     while visited[j] == 0:
-        cycle.append(j)
         visited[j] = 1
         min_moos = min(min_moos, graph[j][1])
         j = graph[j][0]        
     
     moos_total -= min_moos
-    cycles.append(cycle)
 
 print(moos_total)
